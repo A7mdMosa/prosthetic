@@ -20,7 +20,7 @@
 - *Web_view*/ *video player*/ *image picker* for good user experience.
 
 ### _ScreenShots_
-  splash screen                 |   welcome screen 1        |  welcome screen 2
+   splash screen                 |   welcome screen 1        |  welcome screen 2
 :-------------------------:|:-------------------------:|:-------------------------:
 ![splash_screen](https://user-images.githubusercontent.com/31715000/163651557-08448248-2ca8-4ba6-90b3-f47899f17204.jpeg)|![welcome_screen_1](https://user-images.githubusercontent.com/31715000/163651561-4c7d9ddf-54a4-446a-aa69-b64bec846a31.jpeg)|![welcome_screen_2](https://user-images.githubusercontent.com/31715000/163651564-e200c808-d066-4569-ae14-8ccba4674d8f.jpeg)
 
@@ -44,7 +44,7 @@
 :-------------------------:|:-------------------------:|:-------------------------:
 ![fix_screen](https://user-images.githubusercontent.com/31715000/163652477-f20ff665-e808-4602-9ace-4f0cb1c3f600.jpeg)|![profile_screen](https://user-images.githubusercontent.com/31715000/163652482-af9fe5ee-cb0d-4540-9f6e-b5e0154fe714.jpeg)|![edit_profile_screen](https://user-images.githubusercontent.com/31715000/163652489-2cb980a7-57ce-4de4-ab73-f0ca6f9b9f9f.jpeg)
 
-  fix screen                 |    profile screen        |  edit profile screen
+  admin screen                 |    admin product screen        |  admin news screen
 :-------------------------:|:-------------------------:|:-------------------------:
 ![admin_screen](https://user-images.githubusercontent.com/31715000/163652604-d67a3ea8-36fe-4f44-8013-010a6b37ed3f.jpeg)|![admin_products_screen](https://user-images.githubusercontent.com/31715000/163652603-966cb1aa-a6a1-4546-94e2-7bd6baa06786.jpeg)|![admin_news_screen](https://user-images.githubusercontent.com/31715000/163652599-0b333324-2905-4963-8d22-c460007a47a6.jpeg)
 --------------------------
